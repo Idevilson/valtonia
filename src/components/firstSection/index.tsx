@@ -43,6 +43,8 @@ export function FirstSection(){
                         height={95}
                         quality={100}
                     />
+
+
                 </div>
 
                 <div className={styles.sloganMobile}>
